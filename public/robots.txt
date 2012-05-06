@@ -1,0 +1,19 @@
+User-agent: *
+
+Disallow: /about/
+Disallow: /ad/
+Disallow: /archives/
+Disallow: /articles/
+Disallow: /blogosphere/
+Disallow: /chandra/
+Disallow: /dietbook/
+Disallow: /excerpts/
+Disallow: /favicon.ico/
+Disallow: /images/
+Disallow: /index.htm/
+Disallow: /reviews/
+Disallow: /science/
+Disallow: /self-experiment/
+Disallow: /shangri-la/
+Disallow: /spy/
+Disallow: /stories/
