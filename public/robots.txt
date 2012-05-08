@@ -1,5 +1,6 @@
+User-agent: Googlebot
+Disallow: 
 User-agent: *
-
 Disallow: /about/
 Disallow: /ad/
 Disallow: /archives/
@@ -17,3 +18,5 @@ Disallow: /self-experiment/
 Disallow: /shangri-la/
 Disallow: /spy/
 Disallow: /stories/
+Crawl-delay: 60
+
